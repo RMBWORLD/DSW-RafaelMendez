@@ -43,7 +43,7 @@ ul, ol{
 }
 
 aside {
-    background-color: #81c9fa;
+    background-color:black;
     width: 340px;
     height: 650px;
     margin-left: 1150px;
@@ -77,4 +77,10 @@ footer{
     width: 1450px;
     height: 60px;
     background: grey;
+}
+.uno{
+    width: 700px; 
+    height: 500px;
+    margin-left: 200px;  
+    margin-top: 60px;
 }
